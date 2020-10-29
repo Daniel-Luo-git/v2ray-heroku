@@ -5,10 +5,10 @@
     "env": {
         "UUID": {
             "description": "V2Ray UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "4fe83e38-477b-4a2b-915a-7799077b2f7b"
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku/tree/vless",
+    "repository": "https://github.com/Daniel-Luo-git/v2ray-heroku/tree/vless",
     "stack": "container"
 }
